@@ -48,7 +48,7 @@ The **index fingers** define an X-ray region while the **thumbs** define a therm
 - Image masks
 - Layered image effects
 
-### 3. Gesture-Controlled Multi-Region Filters
+### 3. Multi-Region Filters
 
 Uses corresponding fingers on both hands to create multiple polygonal regions.
 
