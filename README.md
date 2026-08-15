@@ -126,20 +126,8 @@ Through these projects, I'm exploring:
 - Color maps
 - Image masking
 - Polygon geometry
-- Pixel-level image manipulation
 - Combining computer vision with interactive controls
 
-## Future Projects
-
-This repository will continue to grow as I experiment with more computer vision concepts, including:
-
-- Object detection
-- Face and pose tracking
-- More gesture-controlled applications
-- Interactive computer vision games
-- Image segmentation
-- Real-time augmented effects
-- AI-based vision applications
 
 ## Purpose
 
