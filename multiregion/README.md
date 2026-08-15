@@ -1,4 +1,4 @@
-# Gesture-Controlled Multi-Region Filters
+# Multi-Region Filters
 
 A real-time computer vision project using **OpenCV**, **MediaPipe Hands**, and **NumPy** to create multiple polygonal regions between two hands and apply a different visual effect to each region.
 
